@@ -1,0 +1,21 @@
+. {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    height: 100vh;
+    background-color: #012043;
+
+}
+header {
+    background-color: white;
+    padding: 20px;
+    border-bottom: solid orange 2px;
+    text-align: center;
+}
+
+main {
+ 
+    padding: 20px;
+}
