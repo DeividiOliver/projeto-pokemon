@@ -22,5 +22,24 @@
 }
 
 .pokedex {
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    margin: 15px auto 0px auto ;
+    border-radius: 20px;
+    padding: 20px;
+}
 
+
+.visor {
+    background-color: aquamarine;
+    height: 40%;
+    border-radius: 10px;
+    border: solid white 10px;
+}
+
+.informacoes {
+    margin-top: 20px;
+    background-color: black;
+    height: 40%;
 }
